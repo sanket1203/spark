@@ -4,7 +4,7 @@ from setuptools import setup
 setup(name='datapeek',
       version='0.1',
       description='A simple library for dealing with raw data',
-      url='https://github.com/sanket1203/datapeek_py',
+      url='https://github.com/sanket1203/spark',
       author='Sanket Patel',
       author_email='sanket.patel@wissen.com',
       license='MIT',
